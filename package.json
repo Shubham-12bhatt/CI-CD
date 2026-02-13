@@ -1,0 +1,14 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Build successful",
+    "test": "echo All tests passed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-12bhatt/CI-CD.git"
+  },
+  "license": "ISC"
+}
